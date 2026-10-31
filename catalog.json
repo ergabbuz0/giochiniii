@@ -4,12 +4,13 @@
       "id": "com.ermonello.hideandsurvive",
       "name": "Hide And Survive",
       "developer": "ErMonello",
-      "description": "Hide And Survive.",
+      "icon": "hideandsurvive.png",
+      "description": "Il mio gioco ufficiale per Halloween! Esplora, nasconditi e sopravvivi nel labirinto, buona fortuna!",
       "tag": "hideandsurvive-1.3",
       "asset": "HideAndSurvive1.3.apk",
       "versionCode": 1,
       "versionName": "1.3",
-      "changelog": "Prima versione nello store."
+      "changelog": "La 1.3 tende a sistemare solamente dei bug e apportare migliorie, ma, tra le varie aggiunte, c'è quella della modalitá incubo, se riesci a vincere in auesta modalitá puoi dichiarti il campione del gioco! Inoltre è stata aggiunta la sezione codici, ti consiglio di non mettere il codice eNric0P4p1"
     }
   ]
 }

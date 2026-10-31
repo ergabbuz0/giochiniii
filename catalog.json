@@ -1,1 +1,15 @@
-{"games": []}
+{
+  "games": [
+    {
+      "id": "com.ermonello.hideandsurvive",
+      "name": "Hide And Survive",
+      "developer": "ErMonello",
+      "description": "Hide And Survive.",
+      "tag": "hideandsurvive-1.3",
+      "asset": "HideAndSurvive1.3.apk",
+      "versionCode": 1,
+      "versionName": "1.3",
+      "changelog": "Prima versione nello store."
+    }
+  ]
+}

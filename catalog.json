@@ -5,23 +5,24 @@
       "name": "Hide And Survive",
       "developer": "ErMonello",
       "icon": "hideandsurvive.png",
-      "description": "Hide And Survive.",
+      "description": "Il mio giochino per Halloween btw, Esplora, nasconditi e sopravvivi nel labirinto",
       "tag": "hideandsurvive-1.3",
       "asset": "HideAndSurvive1.3.apk",
       "versionCode": 1,
       "versionName": "1.3",
-      "changelog": "Prima versione nello store."
+      "changelog": "Nah quasi nulla, la modalità incubo, bug fix e la sezione codci, non inserire eNric0P4p!."
     },
     {
       "id": "com.ermonello.openstore",
       "name": "OpenStore",
       "developer": "ErMonello",
-      "description": "Lo store con cui installi e aggiorni i tuoi giochi.",
+      "icon": "openstore.png",
+      "description": "Il mio store, da cuoi puoi scaricare le mie app e i miei giochi :)",
       "tag": "openstore-1.1.0",
-      "asset": "OpenStore-1.1.0.apk",
+      "asset": "OpenStore.apk",
       "versionCode": 3,
       "versionName": "1.1.0",
-      "changelog": "Icona personalizzata."
+      "changelog": "Btw solo l'icona e nient'altro"
     }
   ]
 }

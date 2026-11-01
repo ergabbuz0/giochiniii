@@ -11,6 +11,18 @@
       "versionCode": 1,
       "versionName": "1.3",
       "changelog": "Nah quasi nulla, la modalità incubo, bug fix e la sezione codci, non inserire eNric0P4p!."
+    }, 
+    {
+      "id": "com.gabry.ncc",
+      "name": "NCC: Viaggi Sicuri",
+      "developer": "ErMonello",
+      "icon": "ncc.png",
+      "description": "App per prenotare il servizio taxi NNC di Dario Martino",
+      "tag": "ncc-1.0",
+      "asset": "ncc-1.0.apk",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "changelog": "Bug fix"
     },
     {
       "id": "com.ermonello.openstore",
@@ -18,11 +30,11 @@
       "developer": "ErMonello",
       "icon": "openstore.png",
       "description": "Il mio store, da cuoi puoi scaricare le mie app e i miei giochi :)",
-      "tag": "openstore-1.1.0",
-      "asset": "OpenStore.apk",
-      "versionCode": 3,
-      "versionName": "1.1.0",
-      "changelog": "Btw solo l'icona e nient'altro"
+      "tag": "openstore-1.2.0",
+      "asset": "OpenStore-1.2.0.apk",
+      "versionCode": 4,
+      "versionName": "1.2.0",
+      "changelog": "Grafica rinnovata con Material You, barra flottante, screenshot e sezioni Mod e Beta"
     }
   ]
 }

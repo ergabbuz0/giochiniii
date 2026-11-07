@@ -46,6 +46,17 @@
       "asset": "Horizon0.7.7.apk",
       "versionCode": "29",
       "versionName": "0.7.7"
+    },
+    {
+      "id": "com.robtopx.geometryjump",
+      "name": "Geometry Dash",
+      "developer": "Robtop Games",
+      "icon": "gd.png",
+      "description": "Geometry Dash, il gioco completo, ma grats.",
+      "tag": "gd",
+      "asset": "gd.apk",
+      "versionCode": "0",
+      "versionName": "In arrivo sullo Store"
     }
   ]
 }
